@@ -37,6 +37,12 @@ Transdermal PLA microneedle patch for steady estradiol delivery without injectio
 Estradiol release follows PLA degradation in vivo (2-6 months).
 Structure validated; degradation kinetics per Khosraviboroujeni et al.
 
+## Results
+- Max stress: 0.0132 MPa
+- Safety factor: 3,939
+- Conclusion: Hollow base substrate provides adequate stress distribution. 
+  Design validated for transdermal insertion with drug reservoir capacity.
+
 ## Files
 
 - `/CAD` - SolidWorks and STEP files
