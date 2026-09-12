@@ -20,6 +20,9 @@ Transdermal PLA microneedle patch for steady estradiol delivery without injectio
 
 (https://doi.org/10.1007/s13346-021-01006-4)
 
+##Stimulation Setup
+Tool: COMSOL Multiphysics
+
 ## Structural Validation (FEA)
 - Validated PLA needle structure can penetrate through skin
 
