@@ -51,16 +51,9 @@ Transdermal PLA microneedle patch for steady estradiol delivery without injectio
 
 **Results:**
 
-- Maximum stress: 6.06 MPa
-
-- Safety factor: 8.58
-
-- Hollow base substrate successfully distributes insertion load across all 25 needles. Design validated for transdermal delivery with drug reservoir capacity.
-
-- Estradiol concentration decreases from 1000 to near-zero over 180 days
-- Steady diffusion through PLA matrix validated
-- **Conclusion:** Design validated for sustained 6-month transdermal delivery
-
+* Estradiol concentration decreases from 1000 to near-zero over 180 days
+* Steady diffusion through PLA matrix validated
+* Conclusion: Design validated for sustained 6-month transdermal delivery
 
 
 ## Drug Release Mechanism
@@ -73,4 +66,4 @@ Estradiol release follows PLA degradation in vivo (2-6 months). Structure valida
 
 - `/CAD` - SolidWorks and STEP files
 
-- `/FEA` - COMSOL stress results and screenshots
+- `/FEA` - COMSOL stress & drug delivery results and screenshots
